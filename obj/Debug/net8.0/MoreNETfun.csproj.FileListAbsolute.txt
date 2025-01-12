@@ -1,0 +1,14 @@
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/bin/Debug/net8.0/MoreNETfun
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/bin/Debug/net8.0/MoreNETfun.deps.json
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/bin/Debug/net8.0/MoreNETfun.runtimeconfig.json
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/bin/Debug/net8.0/MoreNETfun.dll
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/bin/Debug/net8.0/MoreNETfun.pdb
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/obj/Debug/net8.0/MoreNETfun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/obj/Debug/net8.0/MoreNETfun.AssemblyInfoInputs.cache
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/obj/Debug/net8.0/MoreNETfun.AssemblyInfo.cs
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/obj/Debug/net8.0/MoreNETfun.csproj.CoreCompileInputs.cache
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/obj/Debug/net8.0/MoreNETfun.dll
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/obj/Debug/net8.0/refint/MoreNETfun.dll
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/obj/Debug/net8.0/MoreNETfun.pdb
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/obj/Debug/net8.0/MoreNETfun.genruntimeconfig.cache
+/Users/colemansandy/Desktop/BYU/Junior Core/413/MoreNETfun/obj/Debug/net8.0/ref/MoreNETfun.dll
